@@ -1,7 +1,7 @@
 # Projeto Map View
 
 ## Sobre o projeto
-Criar um código orientado a objetos em Python capaz de lhe fornecer informações sobre tal imagem de acordo com a localização dela em um visualizador de mapas e imagens de satélite da Terra para navegadores.
+Criar um código orientado a objetos em Python capaz de lhe fornecer informações sobre tal imagem de acordo com a localização dela em um visualizador de mapas e imagens de satélite da terra para navegadores.
 
 Projeto desenvolvido na terceira unidade da disciplina de programação orientada a objetos (ECT2540).
 
